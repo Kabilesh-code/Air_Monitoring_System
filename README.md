@@ -2,7 +2,7 @@
 
 ## Hardware Architecture
 
-![Hardware Architecture Diagram](link-to-image)
+![Hardware Architecture Diagram](img/IoT_Arc.png)
 
 ### Hardware Components
 
