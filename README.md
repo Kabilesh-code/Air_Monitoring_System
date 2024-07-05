@@ -12,6 +12,23 @@
 - **Buzzer**
 - **8 Female Jumper Wires**
 
+    - DHT11 Sensor
+    
+      - VCC to 3.3V
+      - GND to GND
+      - Data to D7
+    
+    - MQ135 Sensor
+    
+      - VCC to 3.3V
+      - GND to GND
+      - AOUT to A0
+      
+    - Buzzer
+    
+      - Positive to D6
+      - Negative to GND
+
 ## Software Architecture
 
 ![Software Architecture Diagram](link-to-image)
