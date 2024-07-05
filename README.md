@@ -29,17 +29,17 @@
       - Positive to D6
       - Negative to GND
 
-## Software Architecture
+## System Flow Architecture
 
-![Software Architecture Diagram](link-to-image)
+![Software Architecture Diagram](img/AQM_arc.png)
 
 ### Software Tools and Services
 
-- **GitHub**: Repository for Code Management
-- **ThingSpeak Cloud**: Real-time Sensor Data Upload
-- **Arduino IDE**: Embedded C Programming
-- **HTML**, **CSS** (Bootstrap), **JavaScript**: Website Development
-- **Netlify**: Hosting the Website
+- **GitHub** Repository for Code Management
+- **ThingSpeak Cloud** Real-time Sensor Data Upload
+- **Arduino IDE** Embedded C Programming
+- **HTML**, **CSS** (Bootstrap), **JavaScript** Website Development
+- **GitHub Pages** Hosting the Website
   
 ## Website Integration
 
